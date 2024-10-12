@@ -97,7 +97,7 @@ To reconfigure the service, restart `./install.sh` script.
 Pour reconfigurer le service, on doit redémarrer le script `./install.sh`.
 # Donazioni / Donation - 💸
 - [PayPal](https://paypal.me/DeathArmy25/)
-# Autore / Author - 👨🏼‍💻
+# Autore / Author / Auteur - 👨🏼‍💻
 Armando Romeo aka [DeathArmy25](https://github.com/deatharmy25)
 # Licenza / License - ⚖️
 [GPL-3.0](LICENSE)
