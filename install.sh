@@ -43,7 +43,6 @@ your_macos_username=$(whoami)
 # Installation
 if confirm; then
     echo "• Too late to abort…"
-    exit
     echo "~ Creating temporary folder…"
     mkdir tmp
 
